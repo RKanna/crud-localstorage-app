@@ -7,6 +7,7 @@ import { v4 as uuidv4, v5 as uuidv5 } from "uuid";
 import toast, { Toaster } from "react-hot-toast";
 import { BsTrash3Fill } from "react-icons/Bs";
 import { FaEdit } from "react-icons/Fa";
+import { Io } from "react-icons/io";
 function App() {
   // const [list, setList] = useState([]);
 
